@@ -147,7 +147,7 @@ header.active nav {
 /* intro css*/
 .intro {
 	height: 100vh;
-	background: url(/img/intro.jpg) no-repeat center center;
+	background: url(../img/intro.jpg) no-repeat center center;
 	background-size: cover;
 	display: flex;
 	align-items: center;
